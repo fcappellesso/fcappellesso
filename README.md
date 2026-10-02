@@ -16,23 +16,23 @@ I love learning. I like to combine the rigor of theory with the curiosity of som
 
 - **Mathematics**: my main language, especially analysis, partial differential equations and dynamical systems.
 - **Traditional Chinese Medicine**: acupuncture, electroacupuncture, moxibustion, cupping, gua sha, auriculotherapy, cosmetic acupuncture, phytotherapy and diet therapy.
-- **Languages**: Portuguese, English, Italian. I also desire to learn other languages.
+- **Languages**: Portuguese, English and Italian, and always eager to learn more.
 - **Microbiology** and **the cosmos**: the very small and the very large, two extremes that fascinate me.
 - **Literature** and **music from around the world**: food for the soul.
 - **Programming and web development**: learning to build new things.
 
 ---
 
-### What I do here
+### Why I'm here
 
-I use GitHub as a laboratory to explore everything the platform can do with my work and interests:
+This profile is my playground for discovering what GitHub can do. Some of the questions I'm exploring:
 
-- LaTeX documents compiled automatically into PDF
-- Websites with GitHub Pages
-- Automations with GitHub Actions
-- Class notes, transcriptions and study materials
-- Python code for symbolic checks, simulations and experiments
-- …and whatever else I discover along the way
+- Can a text file turn itself into a beautiful PDF?
+- Can a repository become a website?
+- What can be automated so that it simply happens?
+- How far can a profile page go?
+
+I don't know all the answers yet, and that is exactly the fun part.
 
 ---
 
