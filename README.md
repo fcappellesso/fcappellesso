@@ -25,7 +25,8 @@ I love learning. I like to combine the rigor of theory with the curiosity of som
 
 ### Why I'm here
 
-This profile is my playground for discovering what GitHub can do. 
+This profile is my playground for discovering what GitHub can do.
+
 Some of the questions I'm exploring:
 
 - Can a text file turn itself into a beautiful PDF?
