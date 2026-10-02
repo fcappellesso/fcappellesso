@@ -4,7 +4,7 @@
 
 # Franchesca Cappellesso
 
-**Student in Mathematics · Exploring what GitHub can do**
+**Studying Mathematics · Exploring what GitHub can do**
 
 </div>
 
@@ -16,7 +16,7 @@ I am a student in Mathematics who loves learning. I like to combine the rigor of
 
 - **Mathematics**: my main language, especially analysis, partial differential equations and dynamical systems.
 - **Traditional Chinese Medicine**: acupuncture, electroacupuncture, moxibustion, cupping, gua sha, auriculotherapy, cosmetic acupuncture, phytotherapy and diet therapy.
-- **Languages**: Portuguese, English, Italian and Chinese, with French next on the list.
+- **Languages**: Portuguese, English, Italian. I also desire to learn other languages.
 - **Microbiology** and **the cosmos**: the very small and the very large, two extremes that fascinate me.
 - **Literature** and **music from around the world**: food for the soul.
 - **Programming and web development**: learning to build new things.
