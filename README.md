@@ -17,7 +17,7 @@ I love learning. I like to combine the rigor of theory with the curiosity of som
 - **Mathematics**: my main language, especially analysis, partial differential equations and dynamical systems.
 - **Traditional Chinese Medicine**: acupuncture, electroacupuncture, moxibustion, cupping, gua sha, auriculotherapy, cosmetic acupuncture, phytotherapy and diet therapy.
 - **Languages**: Portuguese, English and Italian, and always eager to learn more.
-- **Microbiology** and **the cosmos**: the very small and the very large, two extremes that fascinate me.
+- **Microbiology** and **the cosmos**: the subatomic and the astronomical, bridging the realms of particles and spacetime.
 - **Literature** and **music from around the world**: food for the soul.
 - **Programming and web development**: learning to build new things.
 
