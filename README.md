@@ -4,13 +4,13 @@
 
 # Franchesca Cappellesso
 
-**PhD student in Mathematics · Exploring what GitHub can do**
+**Student in Mathematics · Exploring what GitHub can do**
 
 </div>
 
 ### About me
 
-I am a PhD student in Mathematics who loves learning. I like to combine the rigor of theory with the curiosity of someone who wants to understand how things work, inside and outside academia.
+I am a student in Mathematics who loves learning. I like to combine the rigor of theory with the curiosity of someone who wants to understand how things work, inside and outside academia.
 
 **Things I love**
 
