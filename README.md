@@ -10,7 +10,7 @@
 
 ### About me
 
-I am a student in Mathematics who loves learning. I like to combine the rigor of theory with the curiosity of someone who wants to understand how things work, inside and outside academia.
+I love learning. I like to combine the rigor of theory with the curiosity of someone who wants to understand how things work, inside and outside academia.
 
 **Things I love**
 
