@@ -26,6 +26,8 @@ Adoro aprender. Gosto de unir o rigor da teoria à curiosidade de quem quer ente
 - **Literatura** e **música do mundo todo**: alimento para a alma.
 - **Programação e desenvolvimento web**: aprendendo a construir coisas novas.
 
+> 💡 **Você sabia?** Um prêmio de um milhão de dólares que só uma pessoa conquistou, e recusou. [Descubra mais curiosidades sobre matemática →](https://github.com/fcappellesso/math-did-you-know/blob/main/README.pt-BR.md)
+
 ### Por que estou aqui
 
 Este perfil é o meu laboratório para descobrir o que o GitHub consegue fazer.
@@ -61,6 +63,8 @@ Amo imparare. Mi piace unire il rigore della teoria alla curiosità di chi vuole
 - **Letteratura** e **musica da tutto il mondo**: nutrimento per l'anima.
 - **Programmazione e sviluppo web**: sto imparando a costruire cose nuove.
 
+> 💡 **Lo sapevi?** Un premio da un milione di dollari che una sola persona ha vinto, e rifiutato. [Scopri altre curiosità sulla matematica →](https://github.com/fcappellesso/math-did-you-know/blob/main/README.it.md)
+
 ### Perché sono qui
 
 Questo profilo è il mio laboratorio per scoprire che cosa si può fare con GitHub.
@@ -92,6 +96,8 @@ I love learning. I like to combine the rigor of theory with the curiosity of som
 - **Space, time and imagination**: time slowing down near a black hole, as in *Interstellar*, and the upside-down worlds that science fiction loves to imagine.
 - **Literature** and **music from around the world**: food for the soul.
 - **Programming and web development**: learning to build new things.
+
+> 💡 **Did you know?** A million-dollar prize that only one person has ever won, and turned down. [Discover more curiosities about mathematics →](https://github.com/fcappellesso/math-did-you-know)
 
 ---
 
