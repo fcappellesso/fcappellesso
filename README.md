@@ -2,7 +2,7 @@
 
 <img src="robo.svg" width="120" alt="Little robot typing on a laptop">
 
-# Franchesca Cappellesso
+# Franchesca Lemos Cappellesso
 
 **Studying Mathematics · Exploring what GitHub can do**
 
