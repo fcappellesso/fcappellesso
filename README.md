@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="robo.svg" width="120" alt="Little robot typing on a laptop">
+<img src="assets/lema/lema-digitando.gif" width="120" alt="LEMA, my owl companion, typing on a laptop">
 
 # Franchesca Lemos Cappellesso
 
@@ -126,7 +126,9 @@ To visit my personal website, click the button below:
 
 <br>
 
-<img src="robo.svg" width="140" alt="Little robot typing on a laptop">
+<img src="assets/lema/lema-digitando.gif" width="140" alt="LEMA, my owl companion, typing on a laptop">
+
+[LEMA · animations and complete files](assets/lema/README.md)
 
 <br>
 
