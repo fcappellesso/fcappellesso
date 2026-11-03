@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/lema/lema-digitando.gif" width="120" alt="LEMA, my owl companion, typing on a laptop">
+<img src="assets/lema/lema-movimentos.gif" width="120" alt="LEMA, my owl companion: nine animations and sixteen look directions">
 
 # Franchesca Lemos Cappellesso
 
@@ -126,7 +126,7 @@ To visit my personal website, click the button below:
 
 <br>
 
-<img src="assets/lema/lema-digitando.gif" width="140" alt="LEMA, my owl companion, typing on a laptop">
+<img src="assets/lema/lema-movimentos.gif" width="140" alt="LEMA, my owl companion: nine animations and sixteen look directions">
 
 [LEMA · animations and complete files](assets/lema/README.md)
 
