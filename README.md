@@ -122,7 +122,7 @@ I don't know all the answers yet, and that is exactly the fun part.
 
 To visit my personal website, click the button below:
 
-[![Link to my personal website](https://img.shields.io/badge/fcappellesso.github.io-a78bfa?style=for-the-badge&labelColor=15112c)](https://fcappellesso.github.io)
+[![Link to my personal website](https://img.shields.io/badge/fcappellesso.github.io-367588?style=for-the-badge&labelColor=002147)](https://fcappellesso.github.io)
 
 <br>
 
