@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/lema/lema-movimentos.gif" width="120" alt="LEMA, my owl companion: nine animations and sixteen look directions">
+<img src="assets/lema/lema-movimentos.gif" width="220" alt="LEMA, my owl companion: nine animations and sixteen look directions">
 
 # Franchesca Lemos Cappellesso
 
