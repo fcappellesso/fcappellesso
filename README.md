@@ -118,7 +118,7 @@ I don't know all the answers yet, and that is exactly the fun part.
 
 <div align="center">
 
-### Explore. Learn. *Stay curious.*
+### Explore. Learn. Create. *Stay curious.*
 
 To visit my personal website, click the button below:
 
