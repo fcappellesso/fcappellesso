@@ -4,7 +4,7 @@
 
 # Franchesca Lemos Cappellesso
 
-**Studying Mathematics · Exploring what GitHub can do**
+**Studying Mathematics · LaTeX is my main writing language · Writing daily in Overleaf**
 
 </div>
 
